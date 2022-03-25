@@ -1,0 +1,23 @@
+{
+    "name": "miguel/aula_composer",
+    "description": "Aula 1 Composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Perfect Scrash",
+            "email": "40646773+PerfectScrash@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "miguel\\aula_composer\\": "src/"
+        }
+    }
+}
