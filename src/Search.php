@@ -1,5 +1,5 @@
 <?php
-namespace miguel\aula_composer;
+namespace scrash\aula_composer;
 
 class Search {
     private $url = "https://viacep.com.br/ws/";
