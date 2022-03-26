@@ -17,7 +17,7 @@
             "Search": "src/"
         },
         "psr-4": {
-            "miguel\\aula_composer\\": "src/"
+            "scrash\\aula_composer\\": "src/"
         }
     }
 }

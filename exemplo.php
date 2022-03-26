@@ -6,6 +6,6 @@ use \scrash\aula_composer\Search;
 
 $busca = new Search;
 
-$resultado = $busca->getAddressFromCEP('01001000');
+$resultado = $busca->getAddressFromCEP('07183500');
 
 print_r($resultado);
